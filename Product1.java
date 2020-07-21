@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment3;
 import java.util.*;
 
 public class Product1 {
